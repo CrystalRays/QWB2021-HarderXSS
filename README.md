@@ -29,3 +29,7 @@ docker run -it -P -d --add-host=feedback.cubestone.com:127.0.0.1 --add-host=flaa
 https://www.icystal.top/ctf15-qwb2021harderxss/
 
 目前网上已经有大佬复现的WP了，看大佬的甚至比我这个更好呢。。。
+
+目前已发现的的大佬的WP：
+
+https://blog.funnything.net/2021/06/15/2021-qwb-web-harderxss-writeup/
