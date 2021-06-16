@@ -26,8 +26,6 @@ docker run -it -P -d --add-host=feedback.cubestone.com:127.0.0.1 --add-host=flaa
 
 ## 关于WP
 
-由于赛后打了疫苗，发烧烧了一整天。。。。
+https://www.icystal.top/ctf15-qwb2021harderxss/
 
-所以等出题人把作业做完了，然后把做出题的队伍的WP验证完了，就会出了。。。
-
-不过目前网上已经有大佬复现的WP了，看那个也差不多其实。。。
+目前网上已经有大佬复现的WP了，看大佬的甚至比我这个更好呢。。。
