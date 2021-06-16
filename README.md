@@ -10,9 +10,15 @@
 
 ## 部署说明
 
-构建命令：		`cd docker && docker build -t xxe_xss:1.50 .`
+构建命令：		
+```bash
+cd docker && docker build -t xxe_xss:1.50 .
+```
 
-启动命令：		`docker run -it -P -d --add-host=feedback.cubestone.com:127.0.0.1 --add-host=flaaaaaaaag.cubestone.com:127.0.0.1 --add-host=cubestone.com:127.0.0.1  xxe_xss:1.50 flag{demo}`
+启动命令：		
+```bash
+docker run -it -P -d --add-host=feedback.cubestone.com:127.0.0.1 --add-host=flaaaaaaaag.cubestone.com:127.0.0.1 --add-host=cubestone.com:127.0.0.1  xxe_xss:1.50 flag{demo}
+```
 
 动态flag：		用动态flag替换启动命令末尾的flag{demo}
 
